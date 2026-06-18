@@ -1,5 +1,11 @@
 [
     {
+        "data_hora": "18\/06\/2026 02:43:21",
+        "acao": "CRIAR",
+        "servico_id": 1,
+        "detalhes": "Serviço criado com o título: 's' para o cliente: 's'."
+    },
+    {
         "data_hora": "14\/06\/2026 22:09:12",
         "acao": "EXCLUIR",
         "servico_id": 3,
